@@ -25,6 +25,7 @@ pip install speechrecognition pyttsx3 pyaudio
 Clone the repository and navigate to the project folder:
 
 git clone https://github.com/parmarkrish006/SpeechToText.git
+
 cd SpeechToText
 
 Run the script:
