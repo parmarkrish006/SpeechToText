@@ -30,8 +30,6 @@ cd SpeechToText
 
 Run the script:
 
-python main.py
-
 ⚙️ How It Works
 
 The program listens for speech input using a microphone.
